@@ -1,2 +1,2 @@
 print("HELLO VAMSHI!!")
-print("AUTOMATION!! of Cron JOB")
+print("AUTOMATION!! of Cron JOB"
